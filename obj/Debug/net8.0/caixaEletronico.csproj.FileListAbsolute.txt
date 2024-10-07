@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\bin\Debug\net8.0\caixaEletronico.exe
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\bin\Debug\net8.0\caixaEletronico.deps.json
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\bin\Debug\net8.0\caixaEletronico.runtimeconfig.json
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\bin\Debug\net8.0\caixaEletronico.dll
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\bin\Debug\net8.0\caixaEletronico.pdb
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.AssemblyInfo.cs
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.dll
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\refint\caixaEletronico.dll
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.pdb
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.genruntimeconfig.cache
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\ref\caixaEletronico.dll
