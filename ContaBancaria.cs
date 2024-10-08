@@ -8,28 +8,38 @@ namespace caixaEletronico
 {
     public class ContaBancaria
     {
-        public int NumeroDaConta;
-        public string NomeDoTitular;
-        public string DepósitoInicial;
-        public double ValorInicial;
+        public int NumeroDaConta{get; private set;}
+        public string NomeDoTitular{get; set;}
+        public double ValorInicial{get; private set;}
         public double ValorDeposito;
         public static double ValorSaque;
 
-        public double AposDeposito()
-        {   
-            if(ValorSaque > 0)
-                return (ValorInicial + ValorDeposito) - (ValorSaque + 5);
-            else
-            {
-                return ValorInicial + ValorDeposito;
-            }
+        
+        
+        public ContaBancaria(int numeroC, string nome)
+        {
+            NumeroDaConta = numeroC;
+            NomeDoTitular = nome;
+        }
+        public ContaBancaria(int numeroC, string nome, double depositoInicial) : this(numeroC, nome)
+        {
+            AposDeposito(depositoInicial);
+        }
+
+        public void AposDeposito(double ValorDeposito)
+        {
+            ValorInicial += ValorDeposito;
+        }
+        public void AposSaque(double ValorSaque)
+        {
+            ValorInicial -= ValorSaque + 5;
         }
 
         public override string ToString()
         {
             return "Conta: " + NumeroDaConta + "," 
             + " Titular: " + NomeDoTitular + ","
-            + " Saldo: $" + AposDeposito().ToString("F2", CultureInfo.InvariantCulture);
+            + " Saldo: $" + ValorInicial.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

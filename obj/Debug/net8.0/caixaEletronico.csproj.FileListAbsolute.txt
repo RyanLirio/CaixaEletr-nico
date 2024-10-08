@@ -12,3 +12,4 @@ C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\refint\ca
 C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.pdb
 C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.genruntimeconfig.cache
 C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\ref\caixaEletronico.dll
+C:\Users\RL\desktop\udemy\Exercícios\caixaEletronico\obj\Debug\net8.0\caixaEletronico.sourcelink.json
